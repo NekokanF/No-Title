@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba8bd11cbd5a1f040983be6d5cb74985
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _standcol: {instanceID: 0}
+  - _slidecol: {instanceID: 0}
+  - _bx: {instanceID: 0}
+  - _sbx: {instanceID: 0}
+  - _pla: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
